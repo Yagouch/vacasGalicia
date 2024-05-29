@@ -1,0 +1,645 @@
+"Efectivos e explotacións de gando bovino. Información ata o nivel de desagregación municipal"
+"Número de explotacións e número de bovinos (vacas de muxidura, de non muxidura e outros bovinos)"
+
+
+;;"Número de vacas";
+15001;Abegondo
+;"2022";707
+15002;Ames
+;"2022";315
+15003;Aranga
+;"2022";3792
+15004;Ares
+;"2022";6
+15005;Arteixo
+;"2022";470
+15006;Arzúa
+;"2022";8843
+15007;Baña, A
+;"2022";2721
+15008;Bergondo
+;"2022";84
+15009;Betanzos
+;"2022";104
+15010;Boimorto
+;"2022";4050
+15011;Boiro
+;"2022";248
+15012;Boqueixón
+;"2022";2302
+15013;Brión
+;"2022";1839
+15014;Cabana de Bergantiños
+;"2022";1703
+15015;Cabanas
+;"2022";61
+15016;Camariñas
+;"2022";28
+15017;Cambre
+;"2022";261
+15018;Capela, A
+;"2022";1457
+15019;Carballo
+;"2022";1839
+15901;Cariño
+;"2022";229
+15020;Carnota
+;"2022";16
+15021;Carral
+;"2022";664
+15022;Cedeira
+;"2022";1217
+15023;Cee
+;"2022";288
+15024;Cerceda
+;"2022";2151
+15025;Cerdido
+;"2022";374
+15026;Cesuras
+;"2022";-
+15027;Coirós
+;"2022";70
+15028;Corcubión
+;"2022";9
+15029;Coristanco
+;"2022";2066
+15030;Coruña, A
+;"2022";8
+15031;Culleredo
+;"2022";199
+15032;Curtis
+;"2022";5985
+15033;Dodro
+;"2022";27
+15034;Dumbría
+;"2022";3025
+15035;Fene
+;"2022";80
+15036;Ferrol
+;"2022";328
+15037;Fisterra
+;"2022";47
+15038;Frades
+;"2022";9548
+15039;Irixoa
+;"2022";1504
+15041;Laracha, A
+;"2022";2109
+15040;Laxe
+;"2022";154
+15042;Lousame
+;"2022";1172
+15043;Malpica de Bergantiños
+;"2022";933
+15044;Mañón
+;"2022";823
+15045;Mazaricos
+;"2022";13554
+15046;Melide
+;"2022";3734
+15047;Mesía
+;"2022";7699
+15048;Miño
+;"2022";351
+15049;Moeche
+;"2022";907
+15050;Monfero
+;"2022";3762
+15051;Mugardos
+;"2022";126
+15053;Muros
+;"2022";44
+15052;Muxía
+;"2022";3383
+15054;Narón
+;"2022";452
+15055;Neda
+;"2022";120
+15056;Negreira
+;"2022";3214
+15057;Noia
+;"2022";36
+15058;Oleiros
+;"2022";9
+15059;Ordes
+;"2022";4272
+15060;Oroso
+;"2022";1929
+15061;Ortigueira
+;"2022";2374
+15062;Outes
+;"2022";768
+15063;Oza dos Ríos
+;"2022";-
+15902;Oza-Cesuras
+;"2022";2538
+15064;Paderne
+;"2022";251
+15065;Padrón
+;"2022";222
+15066;Pino, O
+;"2022";3183
+15067;Pobra do Caramiñal, A
+;"2022";148
+15068;Ponteceso
+;"2022";2054
+15069;Pontedeume
+;"2022";34
+15070;Pontes de García Rodríguez, As
+;"2022";1848
+15071;Porto do Son
+;"2022";241
+15072;Rianxo
+;"2022";51
+15073;Ribeira
+;"2022";128
+15074;Rois
+;"2022";2483
+15075;Sada
+;"2022";14
+15076;San Sadurniño
+;"2022";1809
+15077;Santa Comba
+;"2022";10652
+15078;Santiago de Compostela
+;"2022";2584
+15079;Santiso
+;"2022";2869
+15080;Sobrado
+;"2022";4967
+15081;Somozas, As
+;"2022";1189
+15082;Teo
+;"2022";163
+15083;Toques
+;"2022";2811
+15084;Tordoia
+;"2022";6012
+15085;Touro
+;"2022";4368
+15086;Trazo
+;"2022";7263
+15088;Val do Dubra
+;"2022";3145
+15087;Valdoviño
+;"2022";631
+15089;Vedra
+;"2022";498
+15091;Vilarmaior
+;"2022";284
+15090;Vilasantar
+;"2022";2544
+15092;Vimianzo
+;"2022";4085
+15093;Zas
+;"2022";3184
+27001;Abadín
+;"2022";6868
+27002;Alfoz
+;"2022";1502
+27003;Antas de Ulla
+;"2022";2344
+27004;Baleira
+;"2022";3159
+27901;Baralla
+;"2022";3950
+27005;Barreiros
+;"2022";2656
+27006;Becerreá
+;"2022";2588
+27007;Begonte
+;"2022";1687
+27008;Bóveda
+;"2022";1004
+27902;Burela
+;"2022";53
+27009;Carballedo
+;"2022";4134
+27010;Castro de Rei
+;"2022";11455
+27011;Castroverde
+;"2022";6463
+27012;Cervantes
+;"2022";2668
+27013;Cervo
+;"2022";495
+27016;Chantada
+;"2022";7630
+27014;Corgo, O
+;"2022";4785
+27015;Cospeito
+;"2022";8372
+27017;Folgoso do Courel
+;"2022";509
+27018;Fonsagrada, A
+;"2022";5634
+27019;Foz
+;"2022";1154
+27020;Friol
+;"2022";9589
+27022;Guitiriz
+;"2022";8805
+27023;Guntín
+;"2022";8183
+27024;Incio, O
+;"2022";2655
+27026;Láncara
+;"2022";7619
+27027;Lourenzá
+;"2022";814
+27028;Lugo
+;"2022";9146
+27029;Meira
+;"2022";1780
+27030;Mondoñedo
+;"2022";3092
+27031;Monforte de Lemos
+;"2022";2225
+27032;Monterroso
+;"2022";4638
+27033;Muras
+;"2022";3209
+27034;Navia de Suarna
+;"2022";1371
+27035;Negueira de Muñiz
+;"2022";107
+27037;Nogais, As
+;"2022";1853
+27038;Ourol
+;"2022";1284
+27039;Outeiro de Rei
+;"2022";2571
+27040;Palas de Rei
+;"2022";7115
+27041;Pantón
+;"2022";818
+27042;Paradela
+;"2022";6796
+27043;Páramo, O
+;"2022";4655
+27044;Pastoriza, A
+;"2022";15017
+27045;Pedrafita do Cebreiro
+;"2022";1689
+27047;Pobra do Brollón, A
+;"2022";1099
+27046;Pol
+;"2022";7009
+27048;Pontenova, A
+;"2022";880
+27049;Portomarín
+;"2022";4814
+27050;Quiroga
+;"2022";163
+27056;Rábade
+;"2022";29
+27051;Ribadeo
+;"2022";3664
+27052;Ribas de Sil
+;"2022";64
+27053;Ribeira de Piquín
+;"2022";394
+27054;Riotorto
+;"2022";1726
+27055;Samos
+;"2022";3701
+27057;Sarria
+;"2022";12080
+27058;Saviñao, O
+;"2022";5466
+27059;Sober
+;"2022";674
+27060;Taboada
+;"2022";6065
+27061;Trabada
+;"2022";2550
+27062;Triacastela
+;"2022";2599
+27063;Valadouro, O
+;"2022";2331
+27064;Vicedo, O
+;"2022";748
+27065;Vilalba
+;"2022";9901
+27066;Viveiro
+;"2022";921
+27021;Xermade
+;"2022";4870
+27025;Xove
+;"2022";948
+32001;Allariz
+;"2022";511
+32002;Amoeiro
+;"2022";178
+32003;Arnoia, A
+;"2022";0
+32004;Avión
+;"2022";204
+32005;Baltar
+;"2022";310
+32006;Bande
+;"2022";304
+32007;Baños de Molgas
+;"2022";383
+32008;Barbadás
+;"2022";3
+32009;Barco de Valdeorras, O
+;"2022";21
+32010;Beade
+;"2022";0
+32011;Beariz
+;"2022";13
+32012;Blancos, Os
+;"2022";91
+32013;Boborás
+;"2022";9
+32014;Bola, A
+;"2022";32
+32015;Bolo, O
+;"2022";352
+32016;Calvos de Randín
+;"2022";392
+32018;Carballeda de Avia
+;"2022";33
+32017;Carballeda de Valdeorras
+;"2022";3
+32019;Carballiño, O
+;"2022";78
+32020;Cartelle
+;"2022";135
+32022;Castrelo de Miño
+;"2022";5
+32021;Castrelo do Val
+;"2022";47
+32023;Castro Caldelas
+;"2022";1468
+32024;Celanova
+;"2022";316
+32025;Cenlle
+;"2022";2
+32029;Chandrexa de Queixa
+;"2022";980
+32026;Coles
+;"2022";209
+32027;Cortegada
+;"2022";6
+32028;Cualedro
+;"2022";75
+32030;Entrimo
+;"2022";305
+32031;Esgos
+;"2022";133
+32033;Gomesende
+;"2022";38
+32034;Gudiña, A
+;"2022";398
+32035;Irixo, O
+;"2022";221
+32038;Larouco
+;"2022";2
+32039;Laza
+;"2022";306
+32040;Leiro
+;"2022";4
+32041;Lobeira
+;"2022";378
+32042;Lobios
+;"2022";253
+32043;Maceda
+;"2022";1575
+32044;Manzaneda
+;"2022";375
+32045;Maside
+;"2022";39
+32046;Melón
+;"2022";225
+32047;Merca, A
+;"2022";48
+32048;Mezquita, A
+;"2022";892
+32049;Montederramo
+;"2022";3357
+32050;Monterrei
+;"2022";50
+32051;Muíños
+;"2022";192
+32052;Nogueira de Ramuín
+;"2022";99
+32053;Oímbra
+;"2022";11
+32054;Ourense
+;"2022";16
+32055;Paderne de Allariz
+;"2022";49
+32056;Padrenda
+;"2022";105
+32057;Parada de Sil
+;"2022";449
+32058;Pereiro de Aguiar
+;"2022";124
+32059;Peroxa, A
+;"2022";555
+32060;Petín
+;"2022";49
+32061;Piñor
+;"2022";485
+32063;Pobra de Trives, A
+;"2022";822
+32064;Pontedeva
+;"2022";0
+32062;Porqueira
+;"2022";114
+32065;Punxín
+;"2022";3
+32066;Quintela de Leirado
+;"2022";161
+32067;Rairiz de Veiga
+;"2022";504
+32068;Ramirás
+;"2022";82
+32069;Ribadavia
+;"2022";0
+32071;Riós
+;"2022";513
+32072;Rúa, A
+;"2022";18
+32073;Rubiá
+;"2022";0
+32074;San Amaro
+;"2022";127
+32075;San Cibrao das Viñas
+;"2022";2
+32076;San Cristovo de Cea
+;"2022";570
+32070;San Xoán de Río
+;"2022";647
+32077;Sandiás
+;"2022";76
+32078;Sarreaus
+;"2022";428
+32079;Taboadela
+;"2022";149
+32080;Teixeira, A
+;"2022";192
+32081;Toén
+;"2022";0
+32082;Trasmiras
+;"2022";53
+32083;Veiga, A
+;"2022";1318
+32084;Verea
+;"2022";418
+32085;Verín
+;"2022";42
+32086;Viana do Bolo
+;"2022";1567
+32087;Vilamarín
+;"2022";237
+32088;Vilamartín de Valdeorras
+;"2022";71
+32089;Vilar de Barrio
+;"2022";847
+32090;Vilar de Santos
+;"2022";6
+32091;Vilardevós
+;"2022";316
+32092;Vilariño de Conso
+;"2022";283
+32032;Xinzo de Limia
+;"2022";326
+32036;Xunqueira de Ambía
+;"2022";131
+32037;Xunqueira de Espadanedo
+;"2022";349
+36020;Agolada
+;"2022";3120
+36001;Arbo
+;"2022";106
+36003;Baiona
+;"2022";8
+36002;Barro
+;"2022";12
+36004;Bueu
+;"2022";13
+36005;Caldas de Reis
+;"2022";151
+36006;Cambados
+;"2022";5
+36007;Campo Lameiro
+;"2022";138
+36008;Cangas
+;"2022";2
+36009;Cañiza, A
+;"2022";350
+36010;Catoira
+;"2022";1
+36011;Cerdedo
+;"2022";-
+36902;Cerdedo-Cotobade
+;"2022";1167
+36012;Cotobade
+;"2022";-
+36013;Covelo
+;"2022";588
+36014;Crecente
+;"2022";25
+36015;Cuntis
+;"2022";264
+36016;Dozón
+;"2022";3782
+36017;Estrada, A
+;"2022";3478
+36018;Forcarei
+;"2022";2428
+36019;Fornelos de Montes
+;"2022";435
+36021;Gondomar
+;"2022";138
+36022;Grove, O
+;"2022";11
+36023;Guarda, A
+;"2022";21
+36901;Illa de Arousa, A
+;"2022";0
+36024;Lalín
+;"2022";15093
+36025;Lama, A
+;"2022";895
+36026;Marín
+;"2022";4
+36027;Meaño
+;"2022";14
+36028;Meis
+;"2022";30
+36029;Moaña
+;"2022";1
+36030;Mondariz
+;"2022";127
+36031;Mondariz-Balneario
+;"2022";5
+36032;Moraña
+;"2022";215
+36033;Mos
+;"2022";29
+36034;Neves, As
+;"2022";49
+36035;Nigrán
+;"2022";12
+36036;Oia
+;"2022";311
+36037;Pazos de Borbén
+;"2022";65
+36041;Poio
+;"2022";0
+36043;Ponte Caldelas
+;"2022";171
+36042;Ponteareas
+;"2022";40
+36044;Pontecesures
+;"2022";16
+36038;Pontevedra
+;"2022";76
+36039;Porriño, O
+;"2022";21
+36040;Portas
+;"2022";46
+36045;Redondela
+;"2022";34
+36046;Ribadumia
+;"2022";6
+36047;Rodeiro
+;"2022";8867
+36048;Rosal, O
+;"2022";76
+36049;Salceda de Caselas
+;"2022";4
+36050;Salvaterra de Miño
+;"2022";30
+36051;Sanxenxo
+;"2022";12
+36052;Silleda
+;"2022";6906
+36053;Soutomaior
+;"2022";40
+36054;Tomiño
+;"2022";302
+36055;Tui
+;"2022";36
+36056;Valga
+;"2022";97
+36057;Vigo
+;"2022";65
+36059;Vila de Cruces
+;"2022";3497
+36058;Vilaboa
+;"2022";19
+36060;Vilagarcía de Arousa
+;"2022";18
+36061;Vilanova de Arousa
+;"2022";2
+
+"Elaboración propia a partir dos datos proporcionados pola Consellería do Medio Rural "
+"Os datos refírense a explotacións con polo menos un bovino. O 16/02/2010 modificáronse datos do número de explotacións do ano 2008 debido a que só se computan explotacións de alomenos 1 bovino.<br>O 10/04/2012 modificáronse os datos do ano 2010 ao detectarse un erro nos datos."
+(-) Non procede
+
+I.G.E. - Instituto Galego de Estatística
