@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #3498db; /* Color inicial */
+    overflow: hidden;
+}
+
+h2 {
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 200px;
+    padding: 0;
+    font-size: xx-large;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: white;
+    font-family: Arial, sans-serif;
+    position: relative;
+}
+
+.fondo {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-color: #3498db;
+    transition: transform 1s ease; /* Transición para el movimiento */
+    transform: translateX(100%);
+}
+
+.fondo.active {
+    transform: translateX(0); /* Se desliza hacia la izquierda cubriendo la pantalla */
+}
+
+button {
+    width: 100px;
+    height: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.container-main {
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-side_right {
+    width: 25%;
+    padding: 5%;
+}
+
+.city {
+    position: relative;
+    transform: translateX(0);
+}
+
+.boton-higher {
+    display: none;
+}
+.boton-lower {
+    display: none;
+}
+.boton-higher.active {
+    display: inline;
+}
+.boton-lower.active {
+    display: inline;
+}
+.boton-play.active {
+    display: none;
+}
+.second-question.active {
+    display: none;
+}
+
+summary {
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    background-color: rgba(50, 50, 50, 0.2);
+    color: white;
+    border-radius: 5px;
+}
+
+details[open] summary {
+    background-color: rgba(50, 50, 50, 0.6);
+    height: 100%;
+}
+
+details p {
+    padding: 10px;
+    background-color: #ecf0f1;
+    border-radius: 5px;
+}

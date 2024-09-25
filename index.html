@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cambiar fondo con click</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="fondo"></div>
+    <div class="container">
+        <div class="container-main">
+            <h2 class="city">Pontevedra</h2>
+            <h3 id="question">¿Sabes que el 20% de municipios gallegos hay más vacas que personas?</h3>
+            <h3 class="second-question">¿Podrás adivinarlos todos?</h3>
+            <div class="botones">
+                <button onclick="cambiarFondo()" class="boton-higher">Vacas</button>
+                <button onclick="cambiarFondo()" class="boton-lower">Personas</button>
+                <button onclick="play()" class="boton-play">Jugar</button>
+            </div>
+            
+        </div>
+        <div class="container-side_right">
+            <details>
+                <summary>Información</summary>
+                <p id="info">Este es el contenido desplegable que se muestra cuando haces clic en el resumen. Puedes agregar cualquier texto o incluso elementos HTML aquí.</p>
+            </details>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
