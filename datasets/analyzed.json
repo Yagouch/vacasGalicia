@@ -1,0 +1,2539 @@
+
+[
+    {
+        "id": 15001,
+        "name": "Abegondo",
+        "population": "5699",
+        "year": 2022,
+        "cows": "707",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15002,
+        "name": "Ames",
+        "population": "29106",
+        "year": 2022,
+        "cows": "315",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15003,
+        "name": "Aranga",
+        "population": "2070",
+        "year": 2022,
+        "cows": "3792",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15004,
+        "name": "Ares",
+        "population": "5774",
+        "year": 2022,
+        "cows": "6",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15005,
+        "name": "Arteixo",
+        "population": "30630",
+        "year": 2022,
+        "cows": "470",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15006,
+        "name": "Arzúa",
+        "population": "6304",
+        "year": 2022,
+        "cows": "8843",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15007,
+        "name": "A Baña",
+        "population": "3972",
+        "year": 2022,
+        "cows": "2721",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15008,
+        "name": "Bergondo",
+        "population": "6692",
+        "year": 2022,
+        "cows": "84",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15009,
+        "name": "Betanzos",
+        "population": "13539",
+        "year": 2022,
+        "cows": "104",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15010,
+        "name": "Boimorto",
+        "population": "2199",
+        "year": 2022,
+        "cows": "4050",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15011,
+        "name": "Boiro",
+        "population": "19088",
+        "year": 2022,
+        "cows": "248",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15012,
+        "name": "Boqueixón",
+        "population": "4411",
+        "year": 2022,
+        "cows": "2302",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15013,
+        "name": "Brión",
+        "population": "7373",
+        "year": 2022,
+        "cows": "1839",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15014,
+        "name": "Cabana de Bergantiños",
+        "population": "4747",
+        "year": 2022,
+        "cows": "1703",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15015,
+        "name": "Cabanas",
+        "population": "3297",
+        "year": 2022,
+        "cows": "61",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15016,
+        "name": "Camariñas",
+        "population": "6075",
+        "year": 2022,
+        "cows": "28",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15017,
+        "name": "Cambre",
+        "population": "23822",
+        "year": 2022,
+        "cows": "261",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15018,
+        "name": "A Capela",
+        "population": "1373",
+        "year": 2022,
+        "cows": "1457",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15019,
+        "name": "Carballo",
+        "population": "31292",
+        "year": 2022,
+        "cows": "1839",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15901,
+        "name": "Cariño",
+        "population": "4374",
+        "year": 2022,
+        "cows": "229",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15020,
+        "name": "Carnota",
+        "population": "4626",
+        "year": 2022,
+        "cows": "16",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15021,
+        "name": "Carral",
+        "population": "6129",
+        "year": 2022,
+        "cows": "664",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15022,
+        "name": "Cedeira",
+        "population": "7268",
+        "year": 2022,
+        "cows": "1217",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15023,
+        "name": "Cee",
+        "population": "7856",
+        "year": 2022,
+        "cows": "288",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15024,
+        "name": "Cerceda",
+        "population": "5339",
+        "year": 2022,
+        "cows": "2151",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15025,
+        "name": "Cerdido",
+        "population": "1304",
+        "year": 2022,
+        "cows": "374",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15026,
+        "name": "Cesuras",
+        "population": "2187",
+        "year": 2022,
+        "cows": "2534",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15027,
+        "name": "Coirós",
+        "population": "1759",
+        "year": 2022,
+        "cows": "70",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15028,
+        "name": "Corcubión",
+        "population": "1720",
+        "year": 2022,
+        "cows": "9",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15029,
+        "name": "Coristanco",
+        "population": "6982",
+        "year": 2022,
+        "cows": "2066",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15030,
+        "name": "A Coruña",
+        "population": "245053",
+        "year": 2022,
+        "cows": "8",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15031,
+        "name": "Culleredo",
+        "population": "29382",
+        "year": 2022,
+        "cows": "199",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15032,
+        "name": "Curtis",
+        "population": "4161",
+        "year": 2022,
+        "cows": "5985",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15033,
+        "name": "Dodro",
+        "population": "2987",
+        "year": 2022,
+        "cows": "27",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15034,
+        "name": "Dumbría",
+        "population": "3317",
+        "year": 2022,
+        "cows": "3025",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15035,
+        "name": "Fene",
+        "population": "13807",
+        "year": 2022,
+        "cows": "80",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15036,
+        "name": "Ferrol",
+        "population": "71690",
+        "year": 2022,
+        "cows": "328",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15037,
+        "name": "Fisterra",
+        "population": "4958",
+        "year": 2022,
+        "cows": "47",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15038,
+        "name": "Frades",
+        "population": "2578",
+        "year": 2022,
+        "cows": "9548",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15039,
+        "name": "Irixoa",
+        "population": "1501",
+        "year": 2022,
+        "cows": "1504",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15041,
+        "name": "A Laracha",
+        "population": "11322",
+        "year": 2022,
+        "cows": "2109",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15040,
+        "name": "Laxe",
+        "population": "3319",
+        "year": 2022,
+        "cows": "154",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15042,
+        "name": "Lousame",
+        "population": "3634",
+        "year": 2022,
+        "cows": "1172",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15043,
+        "name": "Malpica de Bergantiños",
+        "population": "6044",
+        "year": 2022,
+        "cows": "933",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15044,
+        "name": "Mañón",
+        "population": "1541",
+        "year": 2022,
+        "cows": "823",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15045,
+        "name": "Mazaricos",
+        "population": "4558",
+        "year": 2022,
+        "cows": "13554",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15046,
+        "name": "Melide",
+        "population": "7466",
+        "year": 2022,
+        "cows": "3734",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15047,
+        "name": "Mesía",
+        "population": "2874",
+        "year": 2022,
+        "cows": "7699",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15048,
+        "name": "Miño",
+        "population": "5682",
+        "year": 2022,
+        "cows": "351",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15049,
+        "name": "Moeche",
+        "population": "1358",
+        "year": 2022,
+        "cows": "907",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15050,
+        "name": "Monfero",
+        "population": "2139",
+        "year": 2022,
+        "cows": "3762",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15051,
+        "name": "Mugardos",
+        "population": "5472",
+        "year": 2022,
+        "cows": "126",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15053,
+        "name": "Muros",
+        "population": "9445",
+        "year": 2022,
+        "cows": "44",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15052,
+        "name": "Muxía",
+        "population": "5267",
+        "year": 2022,
+        "cows": "3383",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15054,
+        "name": "Narón",
+        "population": "39074",
+        "year": 2022,
+        "cows": "452",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15055,
+        "name": "Neda",
+        "population": "5429",
+        "year": 2022,
+        "cows": "120",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15056,
+        "name": "Negreira",
+        "population": "7074",
+        "year": 2022,
+        "cows": "3214",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15057,
+        "name": "Noia",
+        "population": "14751",
+        "year": 2022,
+        "cows": "36",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15058,
+        "name": "Oleiros",
+        "population": "34220",
+        "year": 2022,
+        "cows": "9",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15059,
+        "name": "Ordes",
+        "population": "12945",
+        "year": 2022,
+        "cows": "4272",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15060,
+        "name": "Oroso",
+        "population": "7269",
+        "year": 2022,
+        "cows": "1929",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15061,
+        "name": "Ortigueira",
+        "population": "6697",
+        "year": 2022,
+        "cows": "2374",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15062,
+        "name": "Outes",
+        "population": "7177",
+        "year": 2022,
+        "cows": "768",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15063,
+        "name": "Oza dos Ríos",
+        "population": "3220",
+        "year": 2022,
+        "cows": "4230",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15902,
+        "name": "Oza-Cesuras",
+        "population": "5203",
+        "year": 2022,
+        "cows": "2538",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15064,
+        "name": "Paderne",
+        "population": "2592",
+        "year": 2022,
+        "cows": "251",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15065,
+        "name": "Padrón",
+        "population": "8904",
+        "year": 2022,
+        "cows": "222",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15066,
+        "name": "O Pino",
+        "population": "4711",
+        "year": 2022,
+        "cows": "3183",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15067,
+        "name": "A Pobra do Caramiñal",
+        "population": "9637",
+        "year": 2022,
+        "cows": "148",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15068,
+        "name": "Ponteceso",
+        "population": "6065",
+        "year": 2022,
+        "cows": "2054",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15069,
+        "name": "Pontedeume",
+        "population": "8305",
+        "year": 2022,
+        "cows": "34",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15070,
+        "name": "As Pontes de García Rodríguez",
+        "population": "11021",
+        "year": 2022,
+        "cows": "1848",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15071,
+        "name": "Porto do Son",
+        "population": "9695",
+        "year": 2022,
+        "cows": "241",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15072,
+        "name": "Rianxo",
+        "population": "11706",
+        "year": 2022,
+        "cows": "51",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15073,
+        "name": "Ribeira",
+        "population": "27742",
+        "year": 2022,
+        "cows": "128",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15074,
+        "name": "Rois",
+        "population": "4876",
+        "year": 2022,
+        "cows": "2483",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15075,
+        "name": "Sada",
+        "population": "14854",
+        "year": 2022,
+        "cows": "14",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15076,
+        "name": "San Sadurniño",
+        "population": "3085",
+        "year": 2022,
+        "cows": "1809",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15077,
+        "name": "Santa Comba",
+        "population": "10076",
+        "year": 2022,
+        "cows": "10652",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15078,
+        "name": "Santiago de Compostela",
+        "population": "95397",
+        "year": 2022,
+        "cows": "2584",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15079,
+        "name": "Santiso",
+        "population": "1847",
+        "year": 2022,
+        "cows": "2869",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15080,
+        "name": "Sobrado",
+        "population": "2055",
+        "year": 2022,
+        "cows": "4967",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15081,
+        "name": "As Somozas",
+        "population": "1281",
+        "year": 2022,
+        "cows": "1189",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15082,
+        "name": "Teo",
+        "population": "18472",
+        "year": 2022,
+        "cows": "163",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15083,
+        "name": "Toques",
+        "population": "1309",
+        "year": 2022,
+        "cows": "2811",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15084,
+        "name": "Tordoia",
+        "population": "3951",
+        "year": 2022,
+        "cows": "6012",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15085,
+        "name": "Touro",
+        "population": "4028",
+        "year": 2022,
+        "cows": "4368",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15086,
+        "name": "Trazo",
+        "population": "3407",
+        "year": 2022,
+        "cows": "7263",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15088,
+        "name": "Val do Dubra",
+        "population": "4221",
+        "year": 2022,
+        "cows": "3145",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15087,
+        "name": "Valdoviño",
+        "population": "6873",
+        "year": 2022,
+        "cows": "631",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15089,
+        "name": "Vedra",
+        "population": "5030",
+        "year": 2022,
+        "cows": "498",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15091,
+        "name": "Vilarmaior",
+        "population": "1263",
+        "year": 2022,
+        "cows": "284",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15090,
+        "name": "Vilasantar",
+        "population": "1357",
+        "year": 2022,
+        "cows": "2544",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 15092,
+        "name": "Vimianzo",
+        "population": "7989",
+        "year": 2022,
+        "cows": "4085",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 15093,
+        "name": "Zas",
+        "population": "5119",
+        "year": 2022,
+        "cows": "3184",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27001,
+        "name": "Abadín",
+        "population": "2764",
+        "year": 2022,
+        "cows": "6868",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27002,
+        "name": "Alfoz",
+        "population": "2022",
+        "year": 2022,
+        "cows": "1502",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27003,
+        "name": "Antas de Ulla",
+        "population": "2223",
+        "year": 2022,
+        "cows": "2344",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27004,
+        "name": "Baleira",
+        "population": "1463",
+        "year": 2022,
+        "cows": "3159",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27901,
+        "name": "Baralla",
+        "population": "2833",
+        "year": 2022,
+        "cows": "3950",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27005,
+        "name": "Barreiros",
+        "population": "3134",
+        "year": 2022,
+        "cows": "2656",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27006,
+        "name": "Becerreá",
+        "population": "3082",
+        "year": 2022,
+        "cows": "2588",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27007,
+        "name": "Begonte",
+        "population": "3317",
+        "year": 2022,
+        "cows": "1687",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27008,
+        "name": "Bóveda",
+        "population": "1592",
+        "year": 2022,
+        "cows": "1004",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27902,
+        "name": "Burela",
+        "population": "9555",
+        "year": 2022,
+        "cows": "53",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27009,
+        "name": "Carballedo",
+        "population": "2537",
+        "year": 2022,
+        "cows": "4134",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27010,
+        "name": "Castro de Rei",
+        "population": "5428",
+        "year": 2022,
+        "cows": "11455",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27011,
+        "name": "Castroverde",
+        "population": "2882",
+        "year": 2022,
+        "cows": "6463",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27012,
+        "name": "Cervantes",
+        "population": "1598",
+        "year": 2022,
+        "cows": "2668",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27013,
+        "name": "Cervo",
+        "population": "4498",
+        "year": 2022,
+        "cows": "495",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27016,
+        "name": "Chantada",
+        "population": "8739",
+        "year": 2022,
+        "cows": "7630",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27014,
+        "name": "O Corgo",
+        "population": "3822",
+        "year": 2022,
+        "cows": "4785",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27015,
+        "name": "Cospeito",
+        "population": "5072",
+        "year": 2022,
+        "cows": "8372",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27017,
+        "name": "Folgoso do Courel",
+        "population": "1170",
+        "year": 2022,
+        "cows": "509",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27018,
+        "name": "A Fonsagrada",
+        "population": "4192",
+        "year": 2022,
+        "cows": "5634",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27019,
+        "name": "Foz",
+        "population": "9962",
+        "year": 2022,
+        "cows": "1154",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27020,
+        "name": "Friol",
+        "population": "4131",
+        "year": 2022,
+        "cows": "9589",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27022,
+        "name": "Guitiriz",
+        "population": "5676",
+        "year": 2022,
+        "cows": "8805",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27023,
+        "name": "Guntín",
+        "population": "3026",
+        "year": 2022,
+        "cows": "8183",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27024,
+        "name": "O Incio",
+        "population": "1882",
+        "year": 2022,
+        "cows": "2655",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27026,
+        "name": "Láncara",
+        "population": "2869",
+        "year": 2022,
+        "cows": "7619",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27027,
+        "name": "Lourenzá",
+        "population": "2401",
+        "year": 2022,
+        "cows": "814",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27028,
+        "name": "Lugo",
+        "population": "98001",
+        "year": 2022,
+        "cows": "9146",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27029,
+        "name": "Meira",
+        "population": "1784",
+        "year": 2022,
+        "cows": "1780",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27030,
+        "name": "Mondoñedo",
+        "population": "4194",
+        "year": 2022,
+        "cows": "3092",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27031,
+        "name": "Monforte de Lemos",
+        "population": "19486",
+        "year": 2022,
+        "cows": "2225",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27032,
+        "name": "Monterroso",
+        "population": "3951",
+        "year": 2022,
+        "cows": "4638",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27033,
+        "name": "Muras",
+        "population": "756",
+        "year": 2022,
+        "cows": "3209",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27034,
+        "name": "Navia de Suarna",
+        "population": "1341",
+        "year": 2022,
+        "cows": "1371",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27035,
+        "name": "Negueira de Muñiz",
+        "population": "212",
+        "year": 2022,
+        "cows": "107",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27037,
+        "name": "As Nogais",
+        "population": "1300",
+        "year": 2022,
+        "cows": "1853",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27038,
+        "name": "Ourol",
+        "population": "1146",
+        "year": 2022,
+        "cows": "1284",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27039,
+        "name": "Outeiro de Rei",
+        "population": "5025",
+        "year": 2022,
+        "cows": "2571",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27040,
+        "name": "Palas de Rei",
+        "population": "3654",
+        "year": 2022,
+        "cows": "7115",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27041,
+        "name": "Pantón",
+        "population": "2868",
+        "year": 2022,
+        "cows": "818",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27042,
+        "name": "Paradela",
+        "population": "2038",
+        "year": 2022,
+        "cows": "6796",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27043,
+        "name": "O Páramo",
+        "population": "1553",
+        "year": 2022,
+        "cows": "4655",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27044,
+        "name": "A Pastoriza",
+        "population": "3403",
+        "year": 2022,
+        "cows": "15017",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27045,
+        "name": "Pedrafita do Cebreiro",
+        "population": "1201",
+        "year": 2022,
+        "cows": "1689",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27047,
+        "name": "A Pobra do Brollón",
+        "population": "1979",
+        "year": 2022,
+        "cows": "1099",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27046,
+        "name": "Pol",
+        "population": "1794",
+        "year": 2022,
+        "cows": "7009",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27048,
+        "name": "A Pontenova",
+        "population": "2677",
+        "year": 2022,
+        "cows": "880",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27049,
+        "name": "Portomarín",
+        "population": "1691",
+        "year": 2022,
+        "cows": "4814",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27050,
+        "name": "Quiroga",
+        "population": "3582",
+        "year": 2022,
+        "cows": "163",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27056,
+        "name": "Rábade",
+        "population": "1676",
+        "year": 2022,
+        "cows": "29",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27051,
+        "name": "Ribadeo",
+        "population": "9972",
+        "year": 2022,
+        "cows": "3664",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27052,
+        "name": "Ribas de Sil",
+        "population": "1061",
+        "year": 2022,
+        "cows": "64",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27053,
+        "name": "Ribeira de Piquín",
+        "population": "635",
+        "year": 2022,
+        "cows": "394",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27054,
+        "name": "Riotorto",
+        "population": "1450",
+        "year": 2022,
+        "cows": "1726",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27055,
+        "name": "Samos",
+        "population": "1566",
+        "year": 2022,
+        "cows": "3701",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27057,
+        "name": "Sarria",
+        "population": "13436",
+        "year": 2022,
+        "cows": "12080",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27058,
+        "name": "O Saviñao",
+        "population": "4321",
+        "year": 2022,
+        "cows": "5466",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27059,
+        "name": "Sober",
+        "population": "2455",
+        "year": 2022,
+        "cows": "674",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27060,
+        "name": "Taboada",
+        "population": "3225",
+        "year": 2022,
+        "cows": "6065",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27061,
+        "name": "Trabada",
+        "population": "1268",
+        "year": 2022,
+        "cows": "2550",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27062,
+        "name": "Triacastela",
+        "population": "754",
+        "year": 2022,
+        "cows": "2599",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27063,
+        "name": "O Valadouro",
+        "population": "2127",
+        "year": 2022,
+        "cows": "2331",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27064,
+        "name": "O Vicedo",
+        "population": "1893",
+        "year": 2022,
+        "cows": "748",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27065,
+        "name": "Vilalba",
+        "population": "15042",
+        "year": 2022,
+        "cows": "9901",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27066,
+        "name": "Viveiro",
+        "population": "16076",
+        "year": 2022,
+        "cows": "921",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 27021,
+        "name": "Xermade",
+        "population": "2105",
+        "year": 2022,
+        "cows": "4870",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 27025,
+        "name": "Xove",
+        "population": "3502",
+        "year": 2022,
+        "cows": "948",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32001,
+        "name": "Allariz",
+        "population": "6003",
+        "year": 2022,
+        "cows": "511",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32002,
+        "name": "Amoeiro",
+        "population": "2292",
+        "year": 2022,
+        "cows": "178",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32003,
+        "name": "A Arnoia",
+        "population": "1051",
+        "year": 2022,
+        "cows": "0",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32004,
+        "name": "Avión",
+        "population": "2371",
+        "year": 2022,
+        "cows": "204",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32005,
+        "name": "Baltar",
+        "population": "1038",
+        "year": 2022,
+        "cows": "310",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32006,
+        "name": "Bande",
+        "population": "1956",
+        "year": 2022,
+        "cows": "304",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32007,
+        "name": "Baños de Molgas",
+        "population": "1778",
+        "year": 2022,
+        "cows": "383",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32008,
+        "name": "Barbadás",
+        "population": "10025",
+        "year": 2022,
+        "cows": "3",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32009,
+        "name": "O Barco de Valdeorras",
+        "population": "14037",
+        "year": 2022,
+        "cows": "21",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32010,
+        "name": "Beade",
+        "population": "498",
+        "year": 2022,
+        "cows": "0",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32011,
+        "name": "Beariz",
+        "population": "1202",
+        "year": 2022,
+        "cows": "13",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32012,
+        "name": "Os Blancos",
+        "population": "998",
+        "year": 2022,
+        "cows": "91",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32013,
+        "name": "Boborás",
+        "population": "2832",
+        "year": 2022,
+        "cows": "9",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32014,
+        "name": "A Bola",
+        "population": "1397",
+        "year": 2022,
+        "cows": "32",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32015,
+        "name": "O Bolo",
+        "population": "1080",
+        "year": 2022,
+        "cows": "352",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32016,
+        "name": "Calvos de Randín",
+        "population": "1065",
+        "year": 2022,
+        "cows": "392",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32018,
+        "name": "Carballeda de Avia",
+        "population": "1485",
+        "year": 2022,
+        "cows": "33",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32017,
+        "name": "Carballeda de Valdeorras",
+        "population": "1744",
+        "year": 2022,
+        "cows": "3",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32019,
+        "name": "O Carballiño",
+        "population": "14103",
+        "year": 2022,
+        "cows": "78",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32020,
+        "name": "Cartelle",
+        "population": "3176",
+        "year": 2022,
+        "cows": "135",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32022,
+        "name": "Castrelo de Miño",
+        "population": "1755",
+        "year": 2022,
+        "cows": "5",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32021,
+        "name": "Castrelo do Val",
+        "population": "1160",
+        "year": 2022,
+        "cows": "47",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32023,
+        "name": "Castro Caldelas",
+        "population": "1471",
+        "year": 2022,
+        "cows": "1468",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32024,
+        "name": "Celanova",
+        "population": "5781",
+        "year": 2022,
+        "cows": "316",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32025,
+        "name": "Cenlle",
+        "population": "1327",
+        "year": 2022,
+        "cows": "2",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32029,
+        "name": "Chandrexa de Queixa",
+        "population": "590",
+        "year": 2022,
+        "cows": "980",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 32026,
+        "name": "Coles",
+        "population": "3157",
+        "year": 2022,
+        "cows": "209",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32027,
+        "name": "Cortegada",
+        "population": "1280",
+        "year": 2022,
+        "cows": "6",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32028,
+        "name": "Cualedro",
+        "population": "1930",
+        "year": 2022,
+        "cows": "75",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32030,
+        "name": "Entrimo",
+        "population": "1361",
+        "year": 2022,
+        "cows": "305",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32031,
+        "name": "Esgos",
+        "population": "1194",
+        "year": 2022,
+        "cows": "133",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32033,
+        "name": "Gomesende",
+        "population": "915",
+        "year": 2022,
+        "cows": "38",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32034,
+        "name": "A Gudiña",
+        "population": "1466",
+        "year": 2022,
+        "cows": "398",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32035,
+        "name": "O Irixo",
+        "population": "1670",
+        "year": 2022,
+        "cows": "221",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32038,
+        "name": "Larouco",
+        "population": "532",
+        "year": 2022,
+        "cows": "2",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32039,
+        "name": "Laza",
+        "population": "1538",
+        "year": 2022,
+        "cows": "306",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32040,
+        "name": "Leiro",
+        "population": "1760",
+        "year": 2022,
+        "cows": "4",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32041,
+        "name": "Lobeira",
+        "population": "917",
+        "year": 2022,
+        "cows": "378",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32042,
+        "name": "Lobios",
+        "population": "2097",
+        "year": 2022,
+        "cows": "253",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32043,
+        "name": "Maceda",
+        "population": "3108",
+        "year": 2022,
+        "cows": "1575",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32044,
+        "name": "Manzaneda",
+        "population": "1003",
+        "year": 2022,
+        "cows": "375",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32045,
+        "name": "Maside",
+        "population": "2984",
+        "year": 2022,
+        "cows": "39",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32046,
+        "name": "Melón",
+        "population": "1484",
+        "year": 2022,
+        "cows": "225",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32047,
+        "name": "A Merca",
+        "population": "2203",
+        "year": 2022,
+        "cows": "48",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32048,
+        "name": "A Mezquita",
+        "population": "1214",
+        "year": 2022,
+        "cows": "892",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32049,
+        "name": "Montederramo",
+        "population": "900",
+        "year": 2022,
+        "cows": "3357",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 32050,
+        "name": "Monterrei",
+        "population": "2917",
+        "year": 2022,
+        "cows": "50",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32051,
+        "name": "Muíños",
+        "population": "1736",
+        "year": 2022,
+        "cows": "192",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32052,
+        "name": "Nogueira de Ramuín",
+        "population": "2337",
+        "year": 2022,
+        "cows": "99",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32053,
+        "name": "Oímbra",
+        "population": "1969",
+        "year": 2022,
+        "cows": "11",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32054,
+        "name": "Ourense",
+        "population": "107314",
+        "year": 2022,
+        "cows": "16",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32055,
+        "name": "Paderne de Allariz",
+        "population": "1588",
+        "year": 2022,
+        "cows": "49",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32056,
+        "name": "Padrenda",
+        "population": "2169",
+        "year": 2022,
+        "cows": "105",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32057,
+        "name": "Parada de Sil",
+        "population": "646",
+        "year": 2022,
+        "cows": "449",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32058,
+        "name": "Pereiro de Aguiar",
+        "population": "6261",
+        "year": 2022,
+        "cows": "124",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32059,
+        "name": "A Peroxa",
+        "population": "2096",
+        "year": 2022,
+        "cows": "555",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32060,
+        "name": "Petín",
+        "population": "983",
+        "year": 2022,
+        "cows": "49",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32061,
+        "name": "Piñor",
+        "population": "1328",
+        "year": 2022,
+        "cows": "485",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32063,
+        "name": "A Pobra de Trives",
+        "population": "2396",
+        "year": 2022,
+        "cows": "822",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32064,
+        "name": "Pontedeva",
+        "population": "645",
+        "year": 2022,
+        "cows": "0",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32062,
+        "name": "Porqueira",
+        "population": "997",
+        "year": 2022,
+        "cows": "114",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32065,
+        "name": "Punxín",
+        "population": "799",
+        "year": 2022,
+        "cows": "3",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32066,
+        "name": "Quintela de Leirado",
+        "population": "717",
+        "year": 2022,
+        "cows": "161",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32067,
+        "name": "Rairiz de Veiga",
+        "population": "1591",
+        "year": 2022,
+        "cows": "504",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32068,
+        "name": "Ramirás",
+        "population": "1814",
+        "year": 2022,
+        "cows": "82",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32069,
+        "name": "Ribadavia",
+        "population": "5318",
+        "year": 2022,
+        "cows": "0",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32071,
+        "name": "Riós",
+        "population": "1800",
+        "year": 2022,
+        "cows": "513",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32072,
+        "name": "A Rúa",
+        "population": "4665",
+        "year": 2022,
+        "cows": "18",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32073,
+        "name": "Rubiá",
+        "population": "1557",
+        "year": 2022,
+        "cows": "0",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32074,
+        "name": "San Amaro",
+        "population": "1235",
+        "year": 2022,
+        "cows": "127",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32075,
+        "name": "San Cibrao das Viñas",
+        "population": "4689",
+        "year": 2022,
+        "cows": "2",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32076,
+        "name": "San Cristovo de Cea",
+        "population": "2554",
+        "year": 2022,
+        "cows": "570",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32070,
+        "name": "San Xoán de Río",
+        "population": "692",
+        "year": 2022,
+        "cows": "647",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32077,
+        "name": "Sandiás",
+        "population": "1344",
+        "year": 2022,
+        "cows": "76",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32078,
+        "name": "Sarreaus",
+        "population": "1408",
+        "year": 2022,
+        "cows": "428",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32079,
+        "name": "Taboadela",
+        "population": "1638",
+        "year": 2022,
+        "cows": "149",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32080,
+        "name": "A Teixeira",
+        "population": "424",
+        "year": 2022,
+        "cows": "192",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32081,
+        "name": "Toén",
+        "population": "2558",
+        "year": 2022,
+        "cows": "0",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32082,
+        "name": "Trasmiras",
+        "population": "1528",
+        "year": 2022,
+        "cows": "53",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32083,
+        "name": "A Veiga",
+        "population": "1035",
+        "year": 2022,
+        "cows": "1318",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 32084,
+        "name": "Verea",
+        "population": "1159",
+        "year": 2022,
+        "cows": "418",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32085,
+        "name": "Verín",
+        "population": "14466",
+        "year": 2022,
+        "cows": "42",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32086,
+        "name": "Viana do Bolo",
+        "population": "3189",
+        "year": 2022,
+        "cows": "1567",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32087,
+        "name": "Vilamarín",
+        "population": "2125",
+        "year": 2022,
+        "cows": "237",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32088,
+        "name": "Vilamartín de Valdeorras",
+        "population": "1972",
+        "year": 2022,
+        "cows": "71",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32089,
+        "name": "Vilar de Barrio",
+        "population": "1572",
+        "year": 2022,
+        "cows": "847",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32090,
+        "name": "Vilar de Santos",
+        "population": "921",
+        "year": 2022,
+        "cows": "6",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32091,
+        "name": "Vilardevós",
+        "population": "2118",
+        "year": 2022,
+        "cows": "316",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32092,
+        "name": "Vilariño de Conso",
+        "population": "638",
+        "year": 2022,
+        "cows": "283",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32032,
+        "name": "Xinzo de Limia",
+        "population": "10311",
+        "year": 2022,
+        "cows": "326",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32036,
+        "name": "Xunqueira de Ambía",
+        "population": "1657",
+        "year": 2022,
+        "cows": "131",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 32037,
+        "name": "Xunqueira de Espadanedo",
+        "population": "891",
+        "year": 2022,
+        "cows": "349",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36020,
+        "name": "Agolada",
+        "population": "2773",
+        "year": 2022,
+        "cows": "3120",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 36001,
+        "name": "Arbo",
+        "population": "3130",
+        "year": 2022,
+        "cows": "106",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36003,
+        "name": "Baiona",
+        "population": "11940",
+        "year": 2022,
+        "cows": "8",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36002,
+        "name": "Barro",
+        "population": "3713",
+        "year": 2022,
+        "cows": "12",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36004,
+        "name": "Bueu",
+        "population": "12339",
+        "year": 2022,
+        "cows": "13",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36005,
+        "name": "Caldas de Reis",
+        "population": "10013",
+        "year": 2022,
+        "cows": "151",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36006,
+        "name": "Cambados",
+        "population": "14038",
+        "year": 2022,
+        "cows": "5",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36007,
+        "name": "Campo Lameiro",
+        "population": "2017",
+        "year": 2022,
+        "cows": "138",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36008,
+        "name": "Cangas",
+        "population": "26332",
+        "year": 2022,
+        "cows": "2",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36009,
+        "name": "A Cañiza",
+        "population": "5471",
+        "year": 2022,
+        "cows": "350",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36010,
+        "name": "Catoira",
+        "population": "3499",
+        "year": 2022,
+        "cows": "1",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36011,
+        "name": "Cerdedo",
+        "population": "1850",
+        "year": 2022,
+        "cows": "2435",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 36902,
+        "name": "Cerdedo-Cotobade",
+        "population": "5687",
+        "year": 2022,
+        "cows": "1167",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36012,
+        "name": "Cotobade",
+        "population": "4395",
+        "year": 2022,
+        "cows": "5298",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 36013,
+        "name": "Covelo",
+        "population": "2880",
+        "year": 2022,
+        "cows": "588",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36014,
+        "name": "Crecente",
+        "population": "2345",
+        "year": 2022,
+        "cows": "25",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36015,
+        "name": "Cuntis",
+        "population": "4998",
+        "year": 2022,
+        "cows": "264",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36016,
+        "name": "Dozón",
+        "population": "1271",
+        "year": 2022,
+        "cows": "3782",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 36017,
+        "name": "A Estrada",
+        "population": "21626",
+        "year": 2022,
+        "cows": "3478",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36018,
+        "name": "Forcarei",
+        "population": "3934",
+        "year": 2022,
+        "cows": "2428",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36019,
+        "name": "Fornelos de Montes",
+        "population": "1900",
+        "year": 2022,
+        "cows": "435",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36021,
+        "name": "Gondomar",
+        "population": "14086",
+        "year": 2022,
+        "cows": "138",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36022,
+        "name": "O Grove",
+        "population": "11265",
+        "year": 2022,
+        "cows": "11",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36023,
+        "name": "A Guarda",
+        "population": "10419",
+        "year": 2022,
+        "cows": "21",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36901,
+        "name": "A Illa de Arousa",
+        "population": "4975",
+        "year": 2022,
+        "cows": "0",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36024,
+        "name": "Lalín",
+        "population": "20326",
+        "year": 2022,
+        "cows": "15093",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36025,
+        "name": "A Lama",
+        "population": "2891",
+        "year": 2022,
+        "cows": "895",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36026,
+        "name": "Marín",
+        "population": "25357",
+        "year": 2022,
+        "cows": "4",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36027,
+        "name": "Meaño",
+        "population": "5451",
+        "year": 2022,
+        "cows": "14",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36028,
+        "name": "Meis",
+        "population": "4939",
+        "year": 2022,
+        "cows": "30",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36029,
+        "name": "Moaña",
+        "population": "19277",
+        "year": 2022,
+        "cows": "1",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36030,
+        "name": "Mondariz",
+        "population": "4847",
+        "year": 2022,
+        "cows": "127",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36031,
+        "name": "Mondariz-Balneario",
+        "population": "678",
+        "year": 2022,
+        "cows": "5",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36032,
+        "name": "Moraña",
+        "population": "4410",
+        "year": 2022,
+        "cows": "215",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36033,
+        "name": "Mos",
+        "population": "15194",
+        "year": 2022,
+        "cows": "29",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36034,
+        "name": "As Neves",
+        "population": "4280",
+        "year": 2022,
+        "cows": "49",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36035,
+        "name": "Nigrán",
+        "population": "17870",
+        "year": 2022,
+        "cows": "12",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36036,
+        "name": "Oia",
+        "population": "3100",
+        "year": 2022,
+        "cows": "311",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36037,
+        "name": "Pazos de Borbén",
+        "population": "3148",
+        "year": 2022,
+        "cows": "65",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36041,
+        "name": "Poio",
+        "population": "16642",
+        "year": 2022,
+        "cows": "0",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36043,
+        "name": "Ponte Caldelas",
+        "population": "5738",
+        "year": 2022,
+        "cows": "171",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36042,
+        "name": "Ponteareas",
+        "population": "23295",
+        "year": 2022,
+        "cows": "40",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36044,
+        "name": "Pontecesures",
+        "population": "3132",
+        "year": 2022,
+        "cows": "16",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36038,
+        "name": "Pontevedra",
+        "population": "82346",
+        "year": 2022,
+        "cows": "76",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36039,
+        "name": "O Porriño",
+        "population": "18033",
+        "year": 2022,
+        "cows": "21",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36040,
+        "name": "Portas",
+        "population": "3073",
+        "year": 2022,
+        "cows": "46",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36045,
+        "name": "Redondela",
+        "population": "29947",
+        "year": 2022,
+        "cows": "34",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36046,
+        "name": "Ribadumia",
+        "population": "5147",
+        "year": 2022,
+        "cows": "6",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36047,
+        "name": "Rodeiro",
+        "population": "2920",
+        "year": 2022,
+        "cows": "8867",
+        "more_people_than_cows": false
+    },
+    {
+        "id": 36048,
+        "name": "O Rosal",
+        "population": "6519",
+        "year": 2022,
+        "cows": "76",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36049,
+        "name": "Salceda de Caselas",
+        "population": "8810",
+        "year": 2022,
+        "cows": "4",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36050,
+        "name": "Salvaterra de Miño",
+        "population": "9542",
+        "year": 2022,
+        "cows": "30",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36051,
+        "name": "Sanxenxo",
+        "population": "17560",
+        "year": 2022,
+        "cows": "12",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36052,
+        "name": "Silleda",
+        "population": "9108",
+        "year": 2022,
+        "cows": "6906",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36053,
+        "name": "Soutomaior",
+        "population": "7274",
+        "year": 2022,
+        "cows": "40",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36054,
+        "name": "Tomiño",
+        "population": "13645",
+        "year": 2022,
+        "cows": "302",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36055,
+        "name": "Tui",
+        "population": "17295",
+        "year": 2022,
+        "cows": "36",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36056,
+        "name": "Valga",
+        "population": "6051",
+        "year": 2022,
+        "cows": "97",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36057,
+        "name": "Vigo",
+        "population": "295623",
+        "year": 2022,
+        "cows": "65",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36059,
+        "name": "Vila de Cruces",
+        "population": "6073",
+        "year": 2022,
+        "cows": "3497",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36058,
+        "name": "Vilaboa",
+        "population": "6033",
+        "year": 2022,
+        "cows": "19",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36060,
+        "name": "Vilagarcía de Arousa",
+        "population": "37493",
+        "year": 2022,
+        "cows": "18",
+        "more_people_than_cows": true
+    },
+    {
+        "id": 36061,
+        "name": "Vilanova de Arousa",
+        "population": "10600",
+        "year": 2022,
+        "cows": "2",
+        "more_people_than_cows": true
+    }
+]

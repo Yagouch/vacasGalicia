@@ -4,18 +4,22 @@ const botonLower = document.querySelector('.boton-lower');
 
 class municipio {
 
-    constructor(id = 0, name = 'Desconocido', population = 0, cows = 0) {
+    constructor(id = 0, name = 'Desconocido', population = 0, year = 2022, cows = 0, more_people_than_cows = true) {
         this.id = id;
         this.name = name;
         this.population = population;
+        this.year = year;
         this.cows = cows;
+        this.more_people_than_cows = more_people_than_cows;
     }
     
     update(id, name, population, cows) {
         this.id = id;
         this.name = name;
         this.population = population;
+        this.year = year;
         this.cows = cows;
+        this.more_people_than_cows = more_people_than_cows;
     }
 
 
@@ -23,49 +27,45 @@ class municipio {
         return `${this.id}: ${this.name} tiene ${this.population} habitantes y ${this.cows} vacas.`;
     }
 
+
+    static from(json) {
+        return Object.assign(new municipio(), json);
+    }
+
 }
 
-let Place = new municipio();
+let places = [];
+let data_personas = [];
+let data_vacas = [];
 
 async function fetchUserData(){
-    // fetch('population.json')
-    // .then(response => {
-    //     if (!response.ok) {
-    //         throw new Error('Network response was not ok');
-    //     }
-    //     return response.json();
-    // })
-    // .then(data => {
-    //     let randomPlace = data[Math.floor(Math.random() * data.length)];
-    //     Place.update(randomPlace.id, randomPlace.name, randomPlace.population);
-    //     console.log('Datos actualizados: ' + Place.toString());
-    // })
-    // .catch(error => {
-    //     console.error('There was a problem with the fetch operation:', error);
-    // });
     try {
-
-        const [response1, response2] = await Promise.all([
-            fetch('population.json'),
-            fetch('cows.json')
-        ]);
-
-        if (!response1.ok || !response2.ok) {
-            throw new Error('One or both requests failed');
+        const response = await fetch('./datasets/analyzed.json');
+        if (!response.ok) {
+            throw new Error('The requests failed');
         }
-
-        const data1 = await response1.json();
-        const data2 = await response2.json();
-
-        // Hay que hacer que tenga en cuenta lo previamente mostrado para que no se repita
-
-        let randomPlace = data1[Math.floor(Math.random() * data1.length)];
-        let randomPlaceCows = data2.find(place => place.id === randomPlace['id'])['cows'];
-        Place.update(randomPlace.id, randomPlace.name, randomPlace.population, randomPlaceCows);
-        console.log(Place.toString());
+        const raw_data = await response.json();
+        for (let i = 0; i < raw_data.length; i++) {
+            let place = municipio.from(raw_data[i]);
+            if(place.more_people_than_cows){
+                data_personas.push(place);
+            } else data_vacas.push(place);
+        }
     } catch (error) {
         console.error('There was a problem with the fetch operation:', error);
     }
+}
+
+function nextPlace() {
+    let randomPlace;
+    if (places.length == 0) {
+        randomPlace = data_personas[Math.floor(Math.random() * data_personas.length)];
+    } else {
+        if (places[places.length - 1].more_people_than_cows == true){
+            randomPlace = Math.random() < 0.6 ? data_vacas[Math.floor(Math.random() * data_vacas.length)] : data_personas[Math.floor(Math.random() * data_personas.length)];
+        } else randomPlace = Math.random() < 0.4 ? data_vacas[Math.floor(Math.random() * data_vacas.length)] : data_personas[Math.floor(Math.random() * data_personas.length)];
+    }
+    places.push(municipio.from(randomPlace));
 }
 
 function generarColorAleatorio() {
@@ -80,13 +80,14 @@ function generarColorAleatorio() {
 function resetFondo(color) {
     document.body.style.backgroundColor = color;
     fondo.classList.remove('active');
+    document.querySelector('#question').textContent = '¿Qué hay más?';
 }
 
 function cambiarFondo() {
     botonHigher.disabled = true;
     botonLower.disabled = true;
     
-    fetchUserData();
+    nextPlace();
 
     setTimeout(function(){
         const nuevoColor = generarColorAleatorio();
@@ -97,26 +98,57 @@ function cambiarFondo() {
     setTimeout(function(){
         botonHigher.disabled = false;
         botonLower.disabled = false;
-        document.querySelector('.city').innerHTML = Place['name'];
-        document.querySelector('#info').innerHTML = Place.toString();
+        document.querySelector('.city').textContent = places[places.length - 1]['name'];
+        document.querySelector('#info').textContent = places[places.length - 1].toString();
     },1400);
 }
 
-function play(){
+function resetJuego() {
+    setTimeout(function(){
+        document.querySelector('#question').textContent = '¡Vuelve a intentarlo!';
+        document.querySelector('.city').textContent = places[places.length - 1]['name'];
+        document.querySelector('#info').textContent = places[places.length - 1].toString();
+    },500);
+}
+
+function validarRespuesta(tipo) {
+    let acierto = false;
+    console.log(places);
+
+    if(tipo == 2 && Number(places[places.length - 1].population) > Number(places[places.length - 1].cows)){
+        acierto = true;
+    } else if(tipo == 1 && Number(places[places.length - 1].population) <= Number(places[places.length - 1].cows)){
+        acierto = true;
+    } else {
+        acierto = false;
+    }
+
+    if(acierto){
+        document.querySelector('#question').textContent = '¡Correcto!';
+        cambiarFondo();
+    } else {
+        document.querySelector('#question').textContent = '¡Incorrecto!';
+        resetJuego();
+    }
+
+}
+
+async function play(){
+    places = [];
+    await fetchUserData();
+    nextPlace();
     setTimeout(function(){
         const nuevoColor = generarColorAleatorio();
         fondo.style.backgroundColor = nuevoColor;
         fondo.classList.add('active');
-        fetchUserData();
         setTimeout(() => resetFondo(nuevoColor), 1000);
     },500);
     setTimeout(function(){
-        document.querySelector('.boton-higher').classList.add('active');
-        document.querySelector('.boton-lower').classList.add('active');
-        document.querySelector('.boton-play').classList.add('active');
-        document.querySelector('.second-question').classList.add('active');
-        document.querySelector('#question').innerHTML = '¿Qué hay más?';
-        document.querySelector('.city').innerHTML = Place['name'];
-        document.querySelector('#info').innerHTML = Place.toString();
+        const botones = ['.boton-higher', '.boton-lower', '.boton-play', '.second-question'];
+        botones.forEach(selector => document.querySelector(selector).classList.add('active'));
+        
+        document.querySelector('#question').textContent = '¿Qué hay más?';
+        document.querySelector('.city').textContent = places[places.length - 1]['name'];
+        document.querySelector('#info').textContent = places[places.length - 1].toString();
     },1400);
 }
