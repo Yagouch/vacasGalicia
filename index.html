@@ -3,28 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambiar fondo con click</title>
+    <title>Vacas Galegas</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="fondo"></div>
-    <div class="container">
+    <div class="container" id="container">
         <div class="container-main">
-            <h2 class="city">Vacas Galegas</h2>
-            <h3 id="question">¿Sabes que el 20% de municipios gallegos hay más vacas que personas?</h3>
-            <h3 class="second-question">¿Podrás adivinarlos todos?</h3>
-            <div class="botones">
-                <button onclick="validarRespuesta(1)" class="boton-higher">Vacas</button>
-                <button onclick="validarRespuesta(2)" class="boton-lower">Personas</button>
-                <button onclick="play()" class="boton-play">Jugar</button>
-            </div>
-            
-        </div>
-        <div class="container-side_right">
-            <details>
-                <summary>Información</summary>
-                <p id="info">Este es el contenido desplegable que se muestra cuando haces clic en el resumen. Puedes agregar cualquier texto o incluso elementos HTML aquí.</p>
-            </details>
+            <img src="images/vaca.jpg" alt="Vaca" class="cow">
+            <h1 class="shadow">&lt;Vacas&gt;</h1>
+            <h2 class="shadow">Gale¶gas</h2>
+            <h3>¿Sabes que el 20% de municipios gallegos hay más vacas que personas?</h3>
+            <h3>¿Podrás adivinarlos todos?</h3>
+            <button onclick="loadPage('pages/play.html')" class="boton-play">Jugar</button>
         </div>
     </div>
     <script src="scripts.js"></script>

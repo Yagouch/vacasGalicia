@@ -1,4 +1,3 @@
-
 [
     {
         "id": 15001,
@@ -6,7 +5,8 @@
         "population": "5699",
         "year": 2022,
         "cows": "707",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Abegondo está situado en el corazón de la comarca de A Coruña, destacando por su paisaje montañoso y su proximidad al río Mandeo."
     },
     {
         "id": 15002,
@@ -14,7 +14,8 @@
         "population": "29106",
         "year": 2022,
         "cows": "315",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Ames está ubicado en la comarca de Santiago de Compostela y es conocido por su excelente conectividad y su rica historia asociada al Camino de Santiago."
     },
     {
         "id": 15003,
@@ -22,7 +23,8 @@
         "population": "2070",
         "year": 2022,
         "cows": "3792",
-        "more_people_than_cows": false
+        "more_people_than_cows": false,
+        "geographical_info": "Aranga se encuentra en la región montañosa de A Coruña, rodeada de bosques y paisajes naturales, con varias rutas de senderismo."
     },
     {
         "id": 15004,
@@ -30,7 +32,8 @@
         "population": "5774",
         "year": 2022,
         "cows": "6",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Ares es un pintoresco municipio costero en la ría de Ares, conocido por sus playas y su tradición pesquera."
     },
     {
         "id": 15005,
@@ -38,7 +41,8 @@
         "population": "30630",
         "year": 2022,
         "cows": "470",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Arteixo está situado en la costa norte de Galicia, y es famoso por su puerto pesquero y por albergar la sede de Inditex."
     },
     {
         "id": 15006,
@@ -46,7 +50,8 @@
         "population": "6304",
         "year": 2022,
         "cows": "8843",
-        "more_people_than_cows": false
+        "more_people_than_cows": false,
+        "geographical_info": "Arzúa se encuentra en el Camino Francés del Camino de Santiago, siendo un importante punto de descanso para los peregrinos."
     },
     {
         "id": 15007,
@@ -54,7 +59,8 @@
         "population": "3972",
         "year": 2022,
         "cows": "2721",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "A Baña es una localidad rural en la provincia de A Coruña, con una gran presencia de montañas y naturaleza."
     },
     {
         "id": 15008,
@@ -62,7 +68,8 @@
         "population": "6692",
         "year": 2022,
         "cows": "84",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Bergondo está en el noroeste de Galicia, destacando por su entorno rural y su cercanía a la costa."
     },
     {
         "id": 15009,
@@ -70,7 +77,8 @@
         "population": "13539",
         "year": 2022,
         "cows": "104",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Betanzos es una localidad histórica situada en el río Mandeo, famosa por su arquitectura medieval y sus monumentos, como la iglesia de San Francisco."
     },
     {
         "id": 15010,
@@ -78,7 +86,8 @@
         "population": "2199",
         "year": 2022,
         "cows": "4050",
-        "more_people_than_cows": false
+        "more_people_than_cows": false,
+        "geographical_info": "Boimorto se encuentra en el interior de Galicia, en una zona montañosa y rodeada de bosques."
     },
     {
         "id": 15011,
@@ -86,7 +95,8 @@
         "population": "19088",
         "year": 2022,
         "cows": "248",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Boiro es un municipio costero en la ría de Arousa, conocido por sus playas y su industria pesquera."
     },
     {
         "id": 15012,
@@ -94,7 +104,8 @@
         "population": "4411",
         "year": 2022,
         "cows": "2302",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Boqueixón está ubicado en el interior de Galicia, en una zona de gran belleza natural, con numerosas rutas de senderismo."
     },
     {
         "id": 15013,
@@ -102,7 +113,8 @@
         "population": "7373",
         "year": 2022,
         "cows": "1839",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Brión se encuentra en las proximidades de Santiago de Compostela, rodeado de montañas y valles verdes."
     },
     {
         "id": 15014,
@@ -110,7 +122,8 @@
         "population": "4747",
         "year": 2022,
         "cows": "1703",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Cabana de Bergantiños está ubicado en la costa noroeste de Galicia, con hermosos paisajes marinos y rurales."
     },
     {
         "id": 15015,
@@ -118,7 +131,8 @@
         "population": "3297",
         "year": 2022,
         "cows": "61",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Cabanas es un pequeño municipio costero en la ría de Ares, conocido por sus tranquilas playas y su entorno natural."
     },
     {
         "id": 15016,
@@ -126,7 +140,8 @@
         "population": "6075",
         "year": 2022,
         "cows": "28",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Camariñas está en la costa noroeste de Galicia y es conocida por su tradición en la elaboración de encaje de bolillos y sus espectaculares paisajes marítimos."
     },
     {
         "id": 15017,
@@ -134,7 +149,8 @@
         "population": "23822",
         "year": 2022,
         "cows": "261",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geographical_info": "Cambre se encuentra cerca de la ciudad de A Coruña, y es una localidad famosa por sus parques naturales y su desarrollo residencial."
     },
     {
         "id": 15018,
@@ -142,7 +158,8 @@
         "population": "1373",
         "year": 2022,
         "cows": "1457",
-        "more_people_than_cows": false
+        "more_people_than_cows": false,
+        "geography_info": "A Capela es un municipio ubicado en la comarca de Eume, al norte de Galicia, conocido por su paisaje montañoso y su cercanía al Parque Natural das Fragas do Eume."
     },
     {
         "id": 15019,
@@ -150,7 +167,8 @@
         "population": "31292",
         "year": 2022,
         "cows": "1839",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Carballo está situado en la comarca de Bergantiños, en la costa suroeste de Galicia, conocido por sus playas y su tradición pesquera."
     },
     {
         "id": 15901,
@@ -158,7 +176,8 @@
         "population": "4374",
         "year": 2022,
         "cows": "229",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Cariño es una localidad costera en la comarca de Ortegal, famosa por su puerto pesquero y su proximidad a los acantilados de la costa norte de Galicia."
     },
     {
         "id": 15020,
@@ -166,7 +185,8 @@
         "population": "4626",
         "year": 2022,
         "cows": "16",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Carnota está en la costa atlántica de Galicia, conocida por su extensa playa y el famoso hórreo de Carnota, el más largo de Galicia."
     },
     {
         "id": 15021,
@@ -174,7 +194,8 @@
         "population": "6129",
         "year": 2022,
         "cows": "664",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Carral se encuentra en el interior de la provincia de A Coruña, en la comarca de la Tierra de Bergantiños, destacando por su entorno natural y su arquitectura tradicional."
     },
     {
         "id": 15022,
@@ -182,7 +203,8 @@
         "population": "7268",
         "year": 2022,
         "cows": "1217",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Cedeira es un municipio costero situado en la comarca de Ortegal, conocido por sus acantilados y hermosas playas, como la playa de Valdoviño."
     },
     {
         "id": 15023,
@@ -190,7 +212,8 @@
         "population": "7856",
         "year": 2022,
         "cows": "288",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Cee está en la Costa da Morte, una de las zonas más emblemáticas de Galicia, famosa por sus hermosos paisajes, playas y los restos de naufragios en sus costas."
     },
     {
         "id": 15024,
@@ -198,7 +221,8 @@
         "population": "5339",
         "year": 2022,
         "cows": "2151",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Cerceda está en el interior de Galicia, en la comarca de Bergantiños, rodeado de montañas y bosques que forman parte del paisaje gallego tradicional."
     },
     {
         "id": 15025,
@@ -206,7 +230,8 @@
         "population": "1304",
         "year": 2022,
         "cows": "374",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Cerdido es un municipio de la comarca de Ferrol, situado en la zona norte de Galicia, con un paisaje natural caracterizado por montañas y bosques."
     },
     {
         "id": 15026,
@@ -214,7 +239,8 @@
         "population": "2187",
         "year": 2022,
         "cows": "2534",
-        "more_people_than_cows": false
+        "more_people_than_cows": false,
+        "geography_info": "Cesuras es una localidad del interior de Galicia, en la provincia de A Coruña, con una fuerte tradición rural y agrícola."
     },
     {
         "id": 15027,
@@ -222,7 +248,8 @@
         "population": "1759",
         "year": 2022,
         "cows": "70",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Coirós es un pequeño municipio gallego situado en el interior de la provincia de A Coruña, rodeado de montañas y paisajes naturales."
     },
     {
         "id": 15028,
@@ -230,7 +257,8 @@
         "population": "1720",
         "year": 2022,
         "cows": "9",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Corcubión es un municipio costero situado en la costa de la muerte, conocido por su puerto pesquero y su cercanía al Parque Natural de las Islas Atlánticas."
     },
     {
         "id": 15029,
@@ -238,7 +266,8 @@
         "population": "6982",
         "year": 2022,
         "cows": "2066",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Coristanco está en el interior de la comarca de Bergantiños, rodeado de montañas y valles que ofrecen un paisaje rural y natural muy característico."
     },
     {
         "id": 15030,
@@ -246,7 +275,8 @@
         "population": "245053",
         "year": 2022,
         "cows": "8",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "A Coruña es una ciudad costera, capital de la provincia homónima, con un puerto importante, playas urbanas, y monumentos como la Torre de Hércules."
     },
     {
         "id": 15031,
@@ -254,7 +284,8 @@
         "population": "29382",
         "year": 2022,
         "cows": "199",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Culleredo está en la comarca de A Coruña, en una zona rural cercana a la ciudad de A Coruña, con una fuerte tradición agrícola y natural."
     },
     {
         "id": 15032,
@@ -262,7 +293,8 @@
         "population": "4161",
         "year": 2022,
         "cows": "5985",
-        "more_people_than_cows": false
+        "more_people_than_cows": false,
+        "geography_info": "Curtis es un municipio del interior de Galicia, conocido por su paisaje de montañas y valles, y por ser un importante núcleo agrícola."
     },
     {
         "id": 15033,
@@ -270,7 +302,8 @@
         "population": "2987",
         "year": 2022,
         "cows": "27",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Dodro está en la comarca de Santiago de Compostela, cerca del río Ulla, con un entorno natural de bosques y tierras agrícolas."
     },
     {
         "id": 15034,
@@ -278,7 +311,8 @@
         "population": "3317",
         "year": 2022,
         "cows": "3025",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Dumbría se encuentra en la comarca de A Costa da Morte, con una rica fauna y flora, y es conocida por su cercanía al Parque Natural de las Dunas de Corrubedo."
     },
     {
         "id": 15035,
@@ -286,7 +320,8 @@
         "population": "13807",
         "year": 2022,
         "cows": "80",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Fene está en la comarca de Ferrol, cerca de la costa norte de Galicia, y es conocida por su actividad industrial y por su paisaje costero."
     },
     {
         "id": 15036,
@@ -294,7 +329,8 @@
         "population": "71690",
         "year": 2022,
         "cows": "328",
-        "more_people_than_cows": true
+        "more_people_than_cows": true,
+        "geography_info": "Ferrol es una ciudad portuaria en la costa norte de Galicia, famosa por su puerto industrial y su arquitectura del siglo XIX, rodeada de montañas y costas rocosas."
     },
     {
         "id": 15037,

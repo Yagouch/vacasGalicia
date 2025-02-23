@@ -1,24 +1,66 @@
+@font-face {
+    font-family: 'titulo';
+    src: url('fonts/Momentz.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cuerpo';
+    src: url('fonts/PoetsenOne.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/** Variables de color */
+
+:root {
+    --blanco: #E1E1E1;
+    --azul: #3498db;
+    --verde-oscuro: #4B5945;
+    --verde: #66785F;
+    --marron-oscuro: #504B38;
+    --marron: #7A6F5D;
+    --azul-marino: #2A3663;
+}
+
 body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-color: #3498db; /* Color inicial */
+    background-color: var(--azul); 
     overflow: hidden;
 }
 
-h2 {
-    color: white;
-    font-family: Arial, sans-serif;
-    margin: 200px;
+h1 {
+    color: var(--blanco);
+    font-family: titulo, Arial, sans-serif;
     padding: 0;
-    font-size: xx-large;
+    margin: 0;
+    font-size: 100px;
     text-transform: uppercase;
+}
+h2 {
+    color: var(--blanco);
+    font-family: titulo, Arial, sans-serif;
+    padding: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    margin: 0;
+    margin-bottom: 40px;
 }
 
 h3 {
-    color: white;
-    font-family: Arial, sans-serif;
+    color: var(--blanco);
+    font-family: cuerpo, Arial, sans-serif;
+    font-size: 30px;
+    margin: 20px auto;
     position: relative;
+}
+
+a {
+    color: var(--blanco);
+    text-decoration: none;
 }
 
 .fondo {
@@ -41,12 +83,18 @@ button {
     height: 50px;
 }
 
+.azul {
+    color: var(--azul);
+}
+
+
 .container {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: top;
     width: 100%;
     height: 100%;
+    margin-top: 50px;
 }
 
 .container-main {
@@ -62,27 +110,110 @@ button {
 }
 
 .city {
-    position: relative;
-    transform: translateX(0);
+    font-family: cuerpo, Arial, sans-serif;
+    margin-top: 150px;
+}
+.title {
+    font-family: titulo, Arial, sans-serif;
+    font-size: 40px;
+    margin-top: 20px;
+}
+.header-title {
+    display: flex;
+    justify-content: center;
+    font-family: titulo, Arial, sans-serif;
+    font-size: 40px;
+    cursor: pointer;
 }
 
-.boton-higher {
-    display: none;
+.boton-play {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+    background-color: var(--blanco);
+    color: var(--azul);
+    font-family: cuerpo, Arial, sans-serif;
+    font-size: 20px;
+    padding-inline: 60px;
+    padding-block: 20px;
+    margin-top: 20px;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
-.boton-lower {
-    display: none;
+
+.boton-play:hover {
+    background-color: var(--azul);
+    border: 2px solid var(--blanco);
+    color: var(--blanco);
+    transform: scale(1.2);
 }
-.boton-higher.active {
-    display: inline;
+
+.botones {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
 }
-.boton-lower.active {
-    display: inline;
+
+.boton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+    background-color: var(--blanco);
+    color: var(--azul);
+    font-family: cuerpo, Arial, sans-serif;
+    font-size: 20px;
+    padding-inline: 60px;
+    padding-block: 20px;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
-.boton-play.active {
-    display: none;
+
+.boton:hover {
+    background-color: var(--azul);
+    border: 2px solid var(--blanco);
+    color: var(--blanco);
+    transform: scale(1.2);
 }
-.second-question.active {
-    display: none;
+
+header {
+    display: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    position: fixed;
+}
+
+.info {
+    color: var(--blanco);
+    font-family: cuerpo, Arial, sans-serif;
+    font-size: 20px;
+}
+
+footer {
+    display: absolute;
+    bottom: 0;
+    left: 45%;
+    width: 100%;
+    padding: 20px;
+    position: fixed;
+    color: var(--blanco);
+    font-family: cuerpo, Arial, sans-serif;
+}
+
+.contorno {
+    text-shadow: 
+        1px 1px 0px black,
+        -1px -1px 0px black,
+        1px -1px 0px black,
+        -1px 1px 0px black;
+}
+
+.shadow {
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
 }
 
 summary {
@@ -104,4 +235,10 @@ details p {
     padding: 10px;
     background-color: #ecf0f1;
     border-radius: 5px;
+}
+
+.cow {
+    margin: 30px auto;
+    width: 200px;
+    border-radius: 50%;
 }

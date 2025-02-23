@@ -24,7 +24,7 @@ class municipio {
 
 
     toString() {
-        return `${this.id}: ${this.name} tiene ${this.population} habitantes y ${this.cows} vacas.`;
+        return `${this.name} tiene ${this.population} habitantes y ${this.cows} vacas.`;
     }
 
 
@@ -69,12 +69,8 @@ function nextPlace() {
 }
 
 function generarColorAleatorio() {
-    const letras = '0123456789ABCDEF';
-    let color = '#';
-    for (let i = 0; i < 6; i++) {
-        color += letras[Math.floor(Math.random() * 16)];
-    }
-    return color;
+    const colores = ["#4B5945", "#66785F", "#504B38", "#7A6F5D", "#2A3663"];
+        return colores[Math.floor(Math.random() * (colores.length - 1))];
 }
 
 function resetFondo(color) {
@@ -84,8 +80,6 @@ function resetFondo(color) {
 }
 
 function cambiarFondo() {
-    botonHigher.disabled = true;
-    botonLower.disabled = true;
     
     nextPlace();
 
@@ -96,8 +90,6 @@ function cambiarFondo() {
         setTimeout(() => resetFondo(nuevoColor), 1000);
     },500);
     setTimeout(function(){
-        botonHigher.disabled = false;
-        botonLower.disabled = false;
         document.querySelector('.city').textContent = places[places.length - 1]['name'];
         document.querySelector('#info').textContent = places[places.length - 1].toString();
     },1400);
@@ -142,13 +134,36 @@ async function play(){
         fondo.style.backgroundColor = nuevoColor;
         fondo.classList.add('active');
         setTimeout(() => resetFondo(nuevoColor), 1000);
-    },500);
+    },300);
     setTimeout(function(){
-        const botones = ['.boton-higher', '.boton-lower', '.boton-play', '.second-question'];
-        botones.forEach(selector => document.querySelector(selector).classList.add('active'));
-        
-        document.querySelector('#question').textContent = '¿Qué hay más?';
-        document.querySelector('.city').textContent = places[places.length - 1]['name'];
+        document.querySelector('#city').textContent = places[places.length - 1]['name'];
         document.querySelector('#info').textContent = places[places.length - 1].toString();
     },1400);
 }
+
+function loadPage(page, index = false) {
+    if (!index) {
+        play();   
+    } else {
+        setTimeout(function(){
+            fondo.style.backgroundColor = "#3498db";
+            fondo.classList.add('active');
+            setTimeout(() => resetFondo("#3498db"), 1000);
+        },500);
+    }
+
+    setTimeout(() => fetch(page)
+    .then(response => response.text())
+    .then(data => {
+        const content = document.getElementById("container");
+        if (content) {
+            content.innerHTML = data;
+        } else {
+            console.error("Elemento #container no encontrado en el DOM.");
+        }
+    })
+    .catch(error => console.error("Error al cargar la página:", error)) , 1200);
+    
+}
+
+
